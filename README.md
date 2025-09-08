@@ -1,2 +1,2 @@
 # informative-precommit-wrapper
-It takes a single yaml pre-commit config then it makes a informative out-put for files according to include and exclude patterns
+It takes a single yaml pre-commit config then it makes a informative pre-commit result out-put for each files according to include and exclude patterns
